@@ -2,7 +2,7 @@
 -------------------------
 ### Run p2pool-Google-Colab
 
-https://colab.research.google.com/drive/1yJoIkmqWXzRwio01ieLfFgaaLEUOuMpX?usp=sharing
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
 
 -------------------------
 The purpose of this document is not to rigidly define terms for some sort of 'official' use, but rather to serve as an introduction and collective reference to the way terms are commonly used. People will disagree with some of these definitions, and that disagreement is a secondary concern to guiding newcomers to several definitions and giving them the ability to discern which is meant based on context.
