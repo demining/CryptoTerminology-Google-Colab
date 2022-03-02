@@ -1,5 +1,10 @@
 # Crypto Terminology
+-------------------------
+### Run p2pool-Google-Colab
 
+https://colab.research.google.com/drive/1yJoIkmqWXzRwio01ieLfFgaaLEUOuMpX?usp=sharing
+
+-------------------------
 The purpose of this document is not to rigidly define terms for some sort of 'official' use, but rather to serve as an introduction and collective reference to the way terms are commonly used. People will disagree with some of these definitions, and that disagreement is a secondary concern to guiding newcomers to several definitions and giving them the ability to discern which is meant based on context.
 
 This document is not meant to serve as an _introduction_ to cryptography in general, but rather to supplement such guided tutorials and discussions where one is finding unfamiliar terms. If one isn't starting from the very, very beginning (e.g. arithmetic) and encounters a new term - this document should help them understand the term.
